@@ -40,11 +40,11 @@ public class ArraysPractice {
 	            
 	            
 	    //      int[] array2;
-	    //      System.out.println( array2[0] );  // Array's size MUST be initalized
+	    //      System.out.println( array2[0] );  // Array's size MUST be initialized
 	            
 	            Scanner scan= new Scanner(System.in);
 	                int[] Inputs = new int[5];  
-	                    // in this array we can store 10 elemnts, highest number of index: 9
+	                    // in this array we can store 10 elements, highest number of index: 9
 	                
 	                for(int i=0; i <Inputs.length; i++) {
 	                    System.out.println("Enter a number");

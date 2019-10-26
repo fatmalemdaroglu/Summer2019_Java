@@ -20,7 +20,7 @@ public class multi_branch_if {
        if(false) {
            System.out.println("if block");
        }
-       else if(false) {
+       else if(true) {
            System.out.println("else if block");
        }
        else {

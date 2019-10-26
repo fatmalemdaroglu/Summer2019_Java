@@ -12,7 +12,7 @@ public class ArraysMethods {
         System.out.println( arr );
         
         /*
-          to print entrire array as whole, we need to convert the array to String
+          to print entire array as whole, we need to convert the array to String
                     Arrays.toString( VairableName ): used for converting single
                          dimensional arrays to  String  value
                          
@@ -34,7 +34,7 @@ public class ArraysMethods {
             
             /*
              Arrays.sort(variableName): 
-                        sorts the values of the array in acsending order (smallest to largest)
+                        sorts the values of the array in ascending order (smallest to largest)
              
              */
             int[] Numbers = { 9, 8, 100, 3000, 4, 5, 6};
@@ -135,5 +135,26 @@ public class ArraysMethods {
                System.out.println( "Acsending order: "+ Arrays.toString(arr2));
            
                System.out.println("Descedning order: "+Arrays.toString(Descedning));
+               
+               
+               
+               int[] arrr = new int[3];
+               int[] arrrrr = {1,2,3,4,5};
+               arrrrr=arrr;
+               System.out.println(Arrays.toString(arrrrr));
+               
+               int number[];
+               number=new int[2];
+             
+               number[0]=10;
+               number[1]=20;
+               
+               number=new int[4];
+               number[2]=30;
+               number[3]=40;
+               
+               System.out.println(Arrays.toString(number));
+               
+               
     }
 }

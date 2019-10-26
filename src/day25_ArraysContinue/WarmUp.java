@@ -41,12 +41,10 @@ public class WarmUp {
 			if(count2 == 1) {
 				System.out.println(arr2[i]);
 			}
-		}
+		}                                                                                                                                                     
 		
 		
-		
-		
-		
+
 		
 		
 		
