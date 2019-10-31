@@ -3,7 +3,7 @@ package day24_review;
 public class ArrayClass {
 	public static void main(String[] args) {
 	/*
-	 Array Declerations:
+	 Array Declarations:
 	 		1. DataType[] VariableName = { Value1,Value2,...}; 
 	 		2. DataType VariableName[] = { Value1,Value2,...};
 	 */
@@ -23,7 +23,7 @@ public class ArrayClass {
 	
 	
 	/*
-	 initialize the size of arry:
+	 initialize the size of array:
 	 		int[] arr = new int[size]
 	 */
 	

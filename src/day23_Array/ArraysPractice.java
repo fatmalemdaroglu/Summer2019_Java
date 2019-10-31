@@ -43,7 +43,7 @@ public class ArraysPractice {
 	    //      System.out.println( array2[0] );  // Array's size MUST be initialized
 	            
 	            Scanner scan= new Scanner(System.in);
-	                int[] Inputs = new int[5];  
+	                int[] Inputs = new int[10];  
 	                    // in this array we can store 10 elements, highest number of index: 9
 	                
 	                for(int i=0; i <Inputs.length; i++) {
